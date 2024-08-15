@@ -4,3 +4,4 @@
 <p><strong>textColor: </strong>javascript만으로 글자색상 바꾸는 클릭이벤트 적용하기</p>
 <p><strong>classList.toggle: </strong>classList.toggle을 사용하여 클릭이벤트 적용하기</p>
 <p><strong>login: </strong>form과 localStorage의 사용으로 username값 가져오기</p>
+<p><strong>clock: </strong>현재시간 나타내기(setInterval, padStart의 사용)</p>
