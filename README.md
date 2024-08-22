@@ -7,4 +7,4 @@
 <p><strong>clock: </strong>현재시간 나타내기(setInterval, padStart의 사용)</p>
 <p><strong>quotes: </strong>새로고침 시 명언 랜덤으로 보이기</p>
 <p><strong>background: </strong>새로고침 시 배경 랜덤으로 보이기(html이 아닌 javascript에서 img추가해보기)</p>
-<p></p>
+
